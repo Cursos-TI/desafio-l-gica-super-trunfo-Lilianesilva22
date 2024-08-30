@@ -22,15 +22,11 @@ int main (){
     } else {
         printf(Jogo de xadrez concluido com sucesso");
 
-    }
     
-    if(estoque > estoqueMinimo){
+
         printf("Vitoria no jogo\n");
     } else {
         printf("Fim de jogo!\n");
-
-)
-
 
 
 
